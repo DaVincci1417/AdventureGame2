@@ -1,0 +1,3 @@
+Ronda{jugador=Jugador{ataqueEspecial='Pata' en el hocico', fuerza='125', vida='1000'}, enemigo=Esqueleto{ataqueEspecial='flechazo al hueso', fuerza='100', vida='1000'}, resultado='El jugador ha sido vencido por elEnemigo.'}
+Ronda{jugador=Jugador{ataqueEspecial='Pata' en el hocico', fuerza='125', vida='1000'}, enemigo=Dragon{ataqueEspecial='Llamas del infierno', fuerza='200', vida='1500'}, resultado='El jugador ha vencido al Enemigo.'}
+Ronda{jugador=Jugador{ataqueEspecial='Pata' en el hocico', fuerza='125', vida='1000'}, enemigo=Zombie{ataqueEspecial='¡¡cerebro!!', fuerza='50', vida='500'}, resultado='El jugador ha vencido al Enemigo.'}
